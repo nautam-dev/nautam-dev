@@ -1,11 +1,11 @@
 # Nautam Ranpariya
 
-SDE II at Advergrow Solutions, building production AI systems full-time.
+Software Engineer at Advergrow Solutions, building production AI systems full-time.
 
-Over two years I've been the largest individual contributor to two 
-SaaS products: **adverti.chat** (ad-intelligence platform for Indian 
-D2C brands) and **adverti.app** (self-serve ad launch for small 
-businesses). 42% of all backend code, 8 of 10 third-party integrations, 
+Over two years I've been the largest individual contributor to two
+SaaS products: **adverti.chat** (ad-intelligence platform for Indian
+D2C brands) and **adverti.app** (self-serve ad launch for small
+businesses). 42% of all backend code, 9 of 13 third-party integrations,
 and the AI layer designed from scratch.
 
 That AI layer is a multi-provider LLM gateway (Claude, OpenAI, Gemini, 
